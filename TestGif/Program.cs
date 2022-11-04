@@ -11,7 +11,7 @@ namespace TestGif
             int a;
             int b;
 
-            Console.WriteLine("Hello Wold!");
+            Console.WriteLine("Hello áđád!");
         }
     }
 }
